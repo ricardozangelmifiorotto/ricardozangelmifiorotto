@@ -9,8 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ricardo-zangelmi-fiorotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-zangelmi-fiorotto" height="30" width="40" /></a>
 <a href="https://medium.com/@ricardozangelmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ricardozangelmi" height="30" width="40" /></a>
-<a href="https://medium.com/@ricardozangelmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ricardozangelmi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucx597cenrhcxsm1b1fnwfiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucx597cenrhcxsm1b1fnwfiq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCx597CEnRHCxSm1b1fNWfiQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucx597cenrhcxsm1b1fnwfiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
