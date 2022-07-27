@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Zangelmi Fiorotto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardozangelmifiorotto&label=Profile%20views&color=0e75b6&style=flat" alt="ricardozangelmifiorotto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardozangelmifiorotto" alt="ricardozangelmifiorotto" /></a> </p>
-
 - 🔭 I’m currently working on **Metrics & KPI Managment**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ricardozfiorotto](https://linktr.ee/ricardozfiorotto)
@@ -10,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ricardo-zangelmi-fiorotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-zangelmi-fiorotto" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@ricardozangelmi/monitoramento-residencial-com-raspberry-2e6f55fc1f28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ricardozangelmi/monitoramento-residencial-com-raspberry-2e6f55fc1f28" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@ricardozangelmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ricardozangelmi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucx597cenrhcxsm1b1fnwfiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucx597cenrhcxsm1b1fnwfiq" height="30" width="40" /></a>
 </p>
 
